@@ -3,8 +3,6 @@
 
 **<u>IMAD ASSIGNMENT 1</u>**
 
-YouTube Link: <https://youtu.be/pDTGrVlcPCs?si=5lLeReDWMyN_P21e>
-
 1.  The app is designed for educational purposes; the idea came from an
     educator so that students can input ages and find out information
     about specific historical figures that died at that age. This app is
@@ -71,7 +69,7 @@ creating the app.
 
 4.  Give your repository a name (your student number and name – in one
     word), add a description (use IMAD5112 Assignment 1) and choose
-    public.
+    public. Link: https://github.com/ST10439826/ST10439826StaceyBabbage.git 
 
 5.  Click on the "Create repository" button.
 
@@ -261,6 +259,9 @@ Sample GitHub Actions Workflow for Building (build.yml):
 Test your workflows by pushing changes to your repository and observing
 the actions running in the "Actions" tab on GitHub.
 
+4. YouTube Link: <https://youtu.be/pDTGrVlcPCs?si=5lLeReDWMyN_P21e>
+
+5.
 **<u>Bibliography/ Reference List</u>**
 
 Billington, M. 2023. Sir Michael Gambon obituary. The Guardian.28
