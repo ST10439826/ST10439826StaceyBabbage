@@ -263,20 +263,19 @@ the actions running in the "Actions" tab on GitHub.
 
 **<u>Bibliography/ Reference List</u>**
 
-Vincent, R. 2019. Michael Jackson. Biography, Albums, Songs, & Facts.
-In: Encyclopedia Britannica. \[Online\]. Available at:
-<https://www.britannica.com/biography/Michael-Jackson>. \[Accessed 04
-April 2024\].
-
-The Editors of Encyclopedia Britannica. 2019. Elizabeth II. Biography,
-Family, Reign, & Facts. In: Encyclopedia Britannica. \[Online\].
-Available at: <https://www.britannica.com/biography/Elizabeth-II>.
+Billington, M. 2023. Sir Michael Gambon obituary. The Guardian.28
+September 2023. \[Online\]. Available at:
+<https://www.theguardian.com/stage/2023/sep/28/michael-gambon-obituary>.
 \[Accessed 04 April 2024\].
 
-The Editors of Encyclopedia Britannica. 2019. Diana, Princess of Wales.
-Biography, Marriage, Children, & Death. In: Encyclopedia Britannica.
-\[Online\]. Available at:
-<https://www.britannica.com/biography/Diana-princess-of-Wales>.
+Murray, C.S.2018. Jimi Hendrix. Biography, Songs, & Facts. In:
+Encyclopædia Britannica. \[Online\]. Available at:
+<https://www.britannica.com/biography/Jimi-Hendrix>. \[Accessed 04 April
+2024\].
+
+Nast, C. 2021. Remembering Aaliyah, the ‘Princess of R&B’-And a
+Survivor. \[Online\]. Available at:
+<https://www.vogue.com/article/aaliyah-20th-anniversary-death>.
 \[Accessed 04 April 2024\].
 
 Piccotti, T. 2021. Elvis Presley - Songs, Death & Daughter. Biography.
@@ -294,26 +293,32 @@ Britannica. \[Online\]. Available at:
 <https://www.britannica.com/biography/J-Robert-Oppenheimer>. \[Accessed
 04 April 2024\].
 
+The Editors of Encyclopedia Britannica. 2019. Diana, Princess of Wales.
+Biography, Marriage, Children, & Death. In: Encyclopedia Britannica.
+\[Online\]. Available at:
+<https://www.britannica.com/biography/Diana-princess-of-Wales>.
+\[Accessed 04 April 2024\].
+
+The Editors of Encyclopedia Britannica. 2019. Elizabeth II. Biography,
+Family, Reign, & Facts. In: Encyclopedia Britannica. \[Online\].
+Available at: <https://www.britannica.com/biography/Elizabeth-II>.
+\[Accessed 04 April 2024\].
+
 The Editors of Encyclopedia Britannica.2019. Heath Ledger. Australian
 actor. In: Encyclopedia Britannica. \[Online\]. Available at:
 <https://www.britannica.com/biography/Heath-Ledger>. \[Accessed on 04
 April 2024\].
 
-Murray, C.S.2018. Jimi Hendrix. Biography, Songs, & Facts. In:
-Encyclopædia Britannica. \[Online\]. Available at:
-<https://www.britannica.com/biography/Jimi-Hendrix>. \[Accessed 04 April
-2024\].
-
-Billington, M. 2023. Sir Michael Gambon obituary. The Guardian.28
-September 2023. \[Online\]. Available at:
-<https://www.theguardian.com/stage/2023/sep/28/michael-gambon-obituary>.
-\[Accessed 04 April 2024\].
-
-Nast, C. 2021. Remembering Aaliyah, the ‘Princess of R&B’-And a
-Survivor. \[Online\]. Available at:
-<https://www.vogue.com/article/aaliyah-20th-anniversary-death>.
-\[Accessed 04 April 2024\].
-
 The IIE. 2024. Introduction to Mobile Application Development
 \[IMAD5112/d/p/w Module Manual\]. The Independent Institute of
 Education: Unpublished.
+
+Vincent, R. 2019. Michael Jackson. Biography, Albums, Songs, & Facts.
+In: Encyclopedia Britannica. \[Online\]. Available at:
+<https://www.britannica.com/biography/Michael-Jackson>. \[Accessed 04
+April 2024\].
+
+‌
+
+‌
+
