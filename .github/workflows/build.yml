@@ -1,6 +1,8 @@
-on: [push]
+name:Build APK
 
-jobs:
+on:[push]
+
+jobs: 
 build:
 run-ons: ubuntu-latest
 
