@@ -1,20 +1,21 @@
-name:Build APK
+name: Build APK
 
-on:[push]
+on: [push]
 
-jobs: 
-build:
-run-ons: ubuntu-latest
+jobs:
+  build:
+    runs-on: ubuntu-latest
 
-steps:
--name: Set up JDK
-uses: actions/setup-java@v2
-with:
-distribution: 'adopt'
-java version: '11'
+    steps:
+      - name: Set up JDK
+        uses: actions/setup-java@v2
+        with:
+          distribution: 'adopt'
+          java-version: '11'
 
--name: Check out code
-uses: actions/checkout@v2
+      - name: Check out code
+        uses: actions/checkout@v2
 
--name: Build APK
-run: ./gradlew assembleDebug
+      - name: Build APK
+        run: ./gradlew assembleDebug
+
