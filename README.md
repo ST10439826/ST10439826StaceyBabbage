@@ -15,9 +15,9 @@ YouTube Link: <https://youtu.be/pDTGrVlcPCs?si=5lLeReDWMyN_P21e>
     itself.
 
 2.  
+<img width="297" alt="Screenshot 2024-04-05 145552" src="https://github.com/ST10439826/ST10439826StaceyBabbage/assets/160598659/a101dd60-46b5-4d5a-b02b-cbb22d696d6b">
 
-<img src="media/image1.png" style="width:6.5in;height:4.27986in" />**<u>  
-</u>**
+
 
 The design is easy to follow as the included design elements were
 necessary and impactful, it is simple and easy to understand and there
